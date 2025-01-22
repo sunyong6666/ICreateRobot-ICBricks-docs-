@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ICQbot'
+project = 'ICBricks'
 copyright = 'ICreateRobot'
 author = 'ICreateRobot'
 copyright = 'ICreateRobot'
