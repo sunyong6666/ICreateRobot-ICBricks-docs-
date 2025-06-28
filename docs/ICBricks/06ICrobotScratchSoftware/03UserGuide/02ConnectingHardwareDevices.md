@@ -17,8 +17,9 @@ Control the character to perform various movements by changing the different sta
 ![](img/C6.png)
 
 ### Effect Demonstration  
-| ![](img/C7.gif) | ![](img/C8.gif) |
-| --- | --- |
+![](img/C7.gif)
+![](img/C8.gif)
+
 
 
 
