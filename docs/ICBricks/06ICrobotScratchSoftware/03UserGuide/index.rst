@@ -1,4 +1,4 @@
-ICBricks
+User Guide
 ========================
 
 .. toctree::
