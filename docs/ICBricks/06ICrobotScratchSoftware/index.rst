@@ -1,4 +1,4 @@
-ICBricks
+ICrobot Scratch Software
 ========================
 
 .. toctree::
