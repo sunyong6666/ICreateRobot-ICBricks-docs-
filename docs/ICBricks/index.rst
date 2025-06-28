@@ -10,6 +10,7 @@ ICBricks
    03SensorIntroduction/index
    04FeatureOverview.md
    05MobileCodingSoftware/index
+   06ICrobotScratchSoftware/index
    
 
 
