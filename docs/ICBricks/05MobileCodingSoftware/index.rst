@@ -1,4 +1,4 @@
-ICBricks
+Mobile Coding Software
 ========================
 
 .. toctree::
