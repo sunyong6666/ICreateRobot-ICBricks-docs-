@@ -47,7 +47,7 @@ Rotate the encoder sensor left and right to observe the movement of the servo mo
 
 ### Software Programming  
 #### Install the Software  
-For Android Phone and tablet：** Click the following link to download the installation package: **👉** **[**[Software Installation]**](https://drive.google.com/file/d/1hVLuggfW94oNK4z1C7KD4covAsvXX-bs/view?usp=drive_link)**  **
+For Android Phone and tablet：** Click the following link to download the installation package: **👉** **[**[Software Installation]**](https://drive.google.com/file/d/1hVLuggfW94oNK4z1C7KD4covAsvXX-bs/view?usp=drive_link)**
 
 For iPhone and iPad：Please search "ICBricks" in AppStore to install.
 
@@ -56,7 +56,7 @@ For iPhone and iPad：Please search "ICBricks" in AppStore to install.
 
 Before using the programming software, ensure that location and Bluetooth permissions are enabled, and the hub is powered on.  
 
-Open the ICBricks programming software, tap the Bluetooth button, select the hub's name, and click connect.  
+Open the ICBricks programming software, tap the Bluetooth button, select the hub's name, and click connect.  **👉** **[**[Video Tutorial]**](https://drive.google.com/file/d/15BYxLoqGcwHR7LxdSw9uea7OLVElDkLF/view?usp=drive_link)**
 
 ![](img/quickstart26.gif)
 
