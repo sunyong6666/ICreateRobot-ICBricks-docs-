@@ -63,7 +63,7 @@ Open the ICBricks programming software, tap the Bluetooth button, select the hub
 
 Step 2: Program for your models
 
-Please see the **[**[Video Demos]**](https://youtube.com/playlist?list=PLscVLoYXLLuTCQjUZbDd7PDn5nlbZ4xUx&si=QerAnAqJOBl9DrMc)** for each models, and have fun!
+Please see the **[**[Video Demos]**](https://youtube.com/playlist?list=PLscVLoYXLLuQBjYYXvYsV2vKMByFHE0Z_&si=dIswif3nJ2LiYkm1)** for each models, and have fun!
 
 
 
