@@ -51,14 +51,19 @@ For Android Phone and tablet：** Click the following link to download the insta
 
 For iPhone and iPad：Please search "ICBricks" in AppStore to install.
 
+
 #### Steps for Programming  
-**Step 1: Connect Bluetooth  **
+Step 1: Connect Bluetooth
 
 Before using the programming software, ensure that location and Bluetooth permissions are enabled, and the hub is powered on.  
 
 Open the ICBricks programming software, tap the Bluetooth button, select the hub's name, and click connect.  **👉** **[**[Video Tutorial]**](https://drive.google.com/file/d/15BYxLoqGcwHR7LxdSw9uea7OLVElDkLF/view?usp=drive_link)**
 
-![](img/quickstart26.gif)
+
+
+Step 2: Program for your models
+
+Please see the **[**[Video Demos]**](https://youtube.com/playlist?list=PLscVLoYXLLuTCQjUZbDd7PDn5nlbZ4xUx&si=QerAnAqJOBl9DrMc)** for each models, and have fun!
 
 
 
