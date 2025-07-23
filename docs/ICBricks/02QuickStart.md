@@ -47,7 +47,7 @@ Rotate the encoder sensor left and right to observe the movement of the servo mo
 
 ### Software Programming  
 #### Install the Software  
-For Android Phone and tablet：** Click the following link to download the installation package: **👉** **[**[Software Installation]**](https://drive.google.com/file/d/1hVLuggfW94oNK4z1C7KD4covAsvXX-bs/view?usp=drive_link)**
+For Android Phone and tablet：** Click the following link to download the installation package: **👉** **[**[Software Installation]**](https://drive.google.com/file/d/1bFyF63P3TkahBM7W1oqFJUNlr45q4DNI/view?usp=drive_link)**
 
 For iPhone and iPad：Please search "ICBricks" in AppStore to install.
 
