@@ -57,7 +57,7 @@ Step 1: Connect Bluetooth
 
 Before using the programming software, ensure that location and Bluetooth permissions are enabled, and the hub is powered on.  
 
-Open the ICBricks programming software, tap the Bluetooth button, select the hub's name, and click connect.  **👉** **[**[Video Tutorial]**](https://drive.google.com/file/d/15BYxLoqGcwHR7LxdSw9uea7OLVElDkLF/view?usp=drive_link)**
+Open the ICBricks programming software, tap the Bluetooth button, select the hub's name, and click connect.  **👉** **[**[Video Tutorial]**](https://youtu.be/tK44lAONO38?si=Y6tQuKUXNIx9lWHfhttps://youtu.be/tK44lAONO38?si=Y6tQuKUXNIx9lWHf)**
 
 
 
