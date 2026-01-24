@@ -28,7 +28,7 @@ Press the up and down buttons on the hub to observe the movement of the servo mo
 
 ## Logical Control: Encoder Sensor Controls Motor  
 ### Preparation
-| ![](img/quickstart06.png) | ![](img/quickstart07.png) | ![](img/quickstart08.jpeg) |
+| ![](img/quickstart06.png) | ![](img/quickstart07.png) | ![](img/quickstart08.jpg) |
 | :---: | :---: | :---: |
 | ICBricks Hub × 1 |  Servo Motor × 1<br/>  RJ11 to Grove Cable × 1 |  Encoder Sensor × 1  <br/> 6P Crystal Head Cable × 1   |
 
@@ -43,27 +43,101 @@ Rotate the encoder sensor left and right to observe the movement of the servo mo
 
 ![](img/quickstart10.gif)
 
+## Programming Control: Remote-Controlled Car  
+###  Demonstration Effect:  
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart11.gif)
 
+###  Hardware Setup:  
+#### Preparation
+| <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart12.png) | <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart13.png) | <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart14.png)<!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart15.png) |
+| :---: | --- | --- |
+| ICBricks Hub × 1 | Servo Motors × 2<br/>  RJ11 to Grove Cables × 2 |  LEGO bricks   |
+
+
+#### Steps:  
+| <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart16.png) | <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart17.png) | <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart18.png) |
+| :---: | :---: | :---: |
+| Step ① | Step ② | Step ③ |
+| <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart19.png) | <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart20.png) | <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart21.png) |
+| Step ④ | Step ⑤ | Step ⑥ |
+| <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart22.png) | <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart23.png) | <!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart24.png) |
+| Step ⑦ | Step ⑧ | Step ⑨ |
+
+
+#### Connect Motors  
+Connect Motor 1 to port 1 and Motor 2 to port 2 of the hub.  
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart25.png)
 
 ### Software Programming  
 #### Install the Software  
-For Android Phone and tablet：** Click the following link to download the installation package: **👉** **[**[Software Installation]**](https://drive.google.com/file/d/1bFyF63P3TkahBM7W1oqFJUNlr45q4DNI/view?usp=drive_link)**
-
-For iPhone and iPad：Please search "ICBricks" in AppStore to install.
-
+** Click the following link to download the installation package: **👉** **[**[Software Installation]**](https://www.yuque.com/crystal-vzc6k/cfl3ix/xk5zklboqd93ngc7?singleDoc#%20《软件安装》)**  **
 
 #### Steps for Programming  
-Step 1: Connect Bluetooth
+**Step 1: Connect Bluetooth  **
 
 Before using the programming software, ensure that location and Bluetooth permissions are enabled, and the hub is powered on.  
 
-Open the ICBricks programming software, tap the Bluetooth button, select the hub's name, and click connect.  **👉** **[**[Video Tutorial]**](https://youtu.be/tK44lAONO38?si=Y6tQuKUXNIx9lWHfhttps://youtu.be/tK44lAONO38?si=Y6tQuKUXNIx9lWHf)**
+Open the ICBricks programming software, tap the Bluetooth button, select the hub's name, and click connect.  
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart26.GIF)
 
 
 
-Step 2: Program for your models
+**Step 2: Create a New Project  **
 
-Please see the **[**[Video Demos]**](https://youtube.com/playlist?list=PLscVLoYXLLuQBjYYXvYsV2vKMByFHE0Z_&si=dIswif3nJ2LiYkm1)** for each models, and have fun!
+Tap the Beginner Version icon to enter the project interface. Click "New Project" to access the beginner programming interface.  
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart27.GIF)
+
+**Step 3: Program the Project  **
+
+Use the five remote control buttons (“🔼,” “🔽,” “◀️,” “▶️,” “stop”) to control the car’s forward, backward, left, right, and stop movements.  
+
+1. Select the module shown in the <font style="background-color:#FBDE28;">yellow block</font> and drag it to the programming area. Click the dropdown arrow to select the "🔼" direction.  
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart28.png)
+
+2. Select the module shown in the <font style="background-color:#81BBF8;">blue block</font> and drag it to the programming area.  
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart29.png)
+
+3. Similarly, program the other four directions (Backward “🔽,” Left “◀️,” Right “▶️,” and Stop “stop”).    
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart30.PNG)
+
+**Step 4: Run the Program  **
+
+Click the run button to execute the program. Open the remote control and operate the robot.  
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart31.png)
+
+### Demonstration  
+By pressing different buttons, you can control the car to perform various movements.  
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/quickstart32.gif)
 
 
 
