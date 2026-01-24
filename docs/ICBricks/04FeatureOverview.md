@@ -11,7 +11,7 @@ The direct control function does not require programming; actuators can be easil
 
 
 ### The Hub Controls Touch Color LED Sensor
-| ![]img/featureoverview04.gif) | ![](img/featureoverview05.gif) |
+| ![](img/featureoverview04.gif) | ![](img/featureoverview05.gif) |
 | --- | --- |
 | LED connected to Ports 2 and 4:  <br/>**Up or Down button:** Toggles the LED module on or off.   | LED connected to Ports 6 and 8:<br/>+ **Left or Right button:** Toggles the LED module on or off.   |
 
@@ -75,7 +75,7 @@ Activation and deactivation require holding the buttons for over 3s. Otherwise, 
 ICBricks offers various programming options to suit users of different skill levels, from beginners to advanced users, ensuring an enjoyable and fulfilling learning experience.  
 
 ### ICBricks Mobile Programming Mode  
-![](img/featureoverview20.jpeg)
+![](img/featureoverview20.jpg)
 
 The ICBricks programming software is a mobile graphical programming platform designed for the ICBricks 2.0 Core set. Compatible with Android and iOS devices, it supports sensor and actuator control, Bluetooth remote control, and multiple programming modes, offering a rich programming experience.  
 
