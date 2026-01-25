@@ -97,7 +97,7 @@ Using Bluetooth 4.0, you can easily connect your device to the main controller t
 | ![](img/U16.gif) | ![](img/U17.gif) |
 | --- | --- |
 | 1. **Connect the Device:** Tap the Bluetooth button, select the target device in the list, and connect. The hub's breathing light will flash white to indicate a successful connection.     | 2. **Access the Rename Option:** Tap "Select Device" 10 times in a row to bring up the rename input box.    |
-| ![]((img/U18.gif) | ![](img/U19.gif) |
+| ![](img/U18.gif) | ![](img/U19.gif) |
 | 3. **Enter a New Name:** Input the new name in the box. A confirmation window will appear upon a successful name change.   | 4. **Reconnect to View the New Name:** Disconnect the Bluetooth connection, refresh the device list, and reconnect to see the updated device name.   |
 
 
