@@ -75,7 +75,7 @@ Activation and deactivation require holding the buttons for over 3s. Otherwise, 
 ICBricks offers various programming options to suit users of different skill levels, from beginners to advanced users, ensuring an enjoyable and fulfilling learning experience.  
 
 ### ICBricks Mobile Programming Mode  
-![](img/featureoverview20.jpg)
+![](img/featureoverview20.png)
 
 The ICBricks programming software is a mobile graphical programming platform designed for the ICBricks 2.0 Core set. Compatible with Android and iOS devices, it supports sensor and actuator control, Bluetooth remote control, and multiple programming modes, offering a rich programming experience.  
 
