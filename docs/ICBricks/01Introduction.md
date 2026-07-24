@@ -23,8 +23,8 @@ The ICBricks 2.0 series sets are designed for children aged 6-8. Combining intui
 | Distance Sensor  | 1 |
 | Sound Sensor   | 1 |
 |  Gyroscope Sensor   | 2 |
-|  Multifunction Gesture Sensor   | 1 |
-|  Touch Color LED Sensor | 1 |
+|  Multifunction Gesture Sensor   | —— |
+|  Touch Color LED Sensor | 2 |
 | RJ11 to Grove Cable   | 3 |
 | 250mm RJ11 Cable | 4 |
 | 300mm RJ11 Cable  | 4 |
