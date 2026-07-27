@@ -7,7 +7,7 @@ The direct control function does not require programming; actuators can be easil
 ### The Hub Controls Servo Motor   
 | ![](img/featureoverview02.gif) | ![](img/featureoverview03.gif) |
 | --- | --- |
-| Motor connected to Ports 2 and 4:  <br/>+ **Up button:** Controls motor reverse rotation.<br/>+ **Down button: **Controls the motor's clockwise rotation. | Motor connected to Ports 6 and 8:<br/>+ **Left button:** Controls motor reverse rotation.<br/>+ **Right button:** Controls the motor's clockwise rotation. |
+| Motor connected to Ports 2 and 4:  <br/>+**Up button:** Controls motor reverse rotation.<br/>+ **Down button:** Controls the motor's clockwise rotation. | Motor connected to Ports 6 and 8:<br/>+ **Left button:** Controls motor reverse rotation.<br/>+ **Right button:** Controls the motor's clockwise rotation. |
 
 
 ### The Hub Controls Touch Color LED Sensor
@@ -36,19 +36,19 @@ The logic control function requires no programming and allows actuators to be co
 ### Distance Sensor  
 | ![](img/featureoverview11.gif) | ![](img/featureoverview12.gif) |
 | --- | --- |
-| Detects object proximity to control motor speed and direction.<br/>Closer objects: Faster motor speed, clockwise rotation. | By detecting the distance, you can control the brightness of the color LED sensor, the closer the distance, the higher the brightness. |
+| Detects object proximity to control motor speed and direction.<br/>Closer objects: Faster motor speed, clockwise rotation. | By detecting the distance, you can control the <br/>brightness of the color LED sensor, the closer the distance,<br/> the higher the brightness. |
 
 
 ### Sound Sensor  
 | ![](img/featureoverview13.gif) | ![](img/featureoverview14.gif) |
 | --- | --- |
-| Detects sound to trigger:<br/>Servo motor: Rotates clockwise for 1s. | Detects sound to trigger:<br/> LED sensor: Lights up for 5s.   |
+| Detects sound to trigger:<br/>Servo motor: Rotates clockwise for 1s. | Detects sound to trigger:<br/> LED sensor: Lights up for 5s.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   |
 
 
 ### Multifunction Gesture Recognition Sensor  
 | ![](img/featureoverview15.gif) | ![](img/featureoverview16.gif) |
 | --- | --- |
-| Controls Servo Motor:       <br/>Left-to-right gesture: Clockwise rotation.<br/>Right-to-left gesture: Counterclockwise rotation.<br/>Upward/downward gesture: Stops the motor. | Controls LED Sensor:  <br/>Left-to-right gesture: Turns the LED on.<br/>Right-to-left gesture: Turns the LED off.<br/>Downward gesture: Turns the LED on.<br/>Upward gesture: Turns the LED off. |
+| Controls Servo Motor:       <br/>Left-to-right gesture: Clockwise rotation.<br/>Right-to-left gesture: Counterclockwise rotation.<br/>Upward/downward gesture: Stops the motor. | Controls LED Sensor:  <br/>Left-to-right gesture: Turns the LED on.<br/>Right-to-left gesture: Turns the LED off.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>Downward gesture: Turns the LED on.<br/>Upward gesture: Turns the LED off. |
 
 
 ## Logic Restriction Mode  
@@ -68,7 +68,7 @@ Activation and deactivation require holding the buttons for over 3s. Otherwise, 
 
 | ![](img/featureoverview18.gif) | ![](img/featureoverview19.gif) |
 | :---: | :---: |
-| **Activation** | **Deactivation ** |
+| **Activation** | **Deactivation** |
 
 
 ## Programming Control Mode  
