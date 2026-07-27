@@ -493,5 +493,46 @@ Example：
 
 When the program starts, the variable "test" is set to 100, and the servo motor on port 1 runs clockwise at the speed of variable "test".  
 
+## AI
+### training model
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/A91.png)
+
+ Click this option to open the Model Selection Interface and select a training model type.  
+
+### recognition window
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/A92.png)
+
+Recognition Window,** **Displays the model recognition results.  
+
+### recognition of class （） confidence
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/A93.png)
+
+ Get the confidence of the Class 1 model.  
+
+example：
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/A94.png)
+
+ If the confidence score of the detected Class 1 model is greater than 90%, rotate the servo motor connected to Controller Port 1 forward at a speed of 255.  
+
+### recognition result is class （）
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/A95.png)
+
+ Check whether the captured content is recognized as Class 1.  
+
+example：
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/A96.png)
+
+ Check whether the captured content is recognized as Class 1.  
+
+When the program starts, if the Vision Module recognizes the captured object as Class 1, the servo motor connected to Controller Port 1 rotates forward at speed 255.  
+
 
 
