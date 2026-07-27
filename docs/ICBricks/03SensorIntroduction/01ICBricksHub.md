@@ -9,24 +9,25 @@
 
 |  No.   | Name |  Description   |
 | :---: | :---: | --- |
-| ① | ** Speaker  ** | Emits notification sounds.   |
-| ② | ** Indicator Light  ** | Displays power status <sup>[1]</sup>, and can also be used for programming control. |
-| ③ | **RJ11 Ports  ** | A total of 8 ports <sup> [2]</sup> located on both sides, emitting a notification sound upon device connection.   |
-| ④ | ** Port Numbers  ** | Each port is labeled with a unique identifier for easy recognition and use.     |
-| ⑤ | ** Power Button  ** | Press and hold for 2s to power on/off; features a breathing light for status indication <sup>[3]</sup>. |
-| ⑥ | ** Function Buttons  ** | Used for direct and programmed control; pressing all 4 simultaneously forces shutdown  <sup> [4]</sup>. |
-| ⑦ | ** USB-C Port  ** | Enables charging, program downloading, and firmware updates.   |
-| ⑧ | ** Brick Building Holes  ** | Located on the sides and bottom, facilitating assembly and expanded applications.   |
+| ① | **Speaker** | Emits notification sounds.   |
+| ② | **Indicator Light** | Displays power status <sup>[1]</sup>, and can also be used for programming control. |
+| ③ | **RJ11 Ports** | A total of 8 ports <sup> [2]</sup> located on both sides, emitting a notification sound upon device connection.   |
+| ④ | **Port Numbers** | Each port is labeled with a unique identifier for easy recognition and use.     |
+| ⑤ | **Power Button** | Press and hold for 2s to power on/off; features a breathing light for status indication <sup>[3]</sup>. |
+| ⑥ | **Function Buttons** | Used for direct and programmed control; pressing all 4 simultaneously forces shutdown  <sup> [4]</sup>. |
+| ⑦ | **USB-C Port** | Enables charging, program downloading, and firmware updates.   |
+| ⑧ | **Brick Building Holes** | Located on the sides and bottom, facilitating assembly and expanded applications.   |
 
 
-**Additional Notes:  **
+**Additional Notes:**
 
 + <sup>[1] </sup>**Power Indicator:**<sup> </sup>Displays remaining battery levels with different light colors. Automatic shutdown: Automatic shutdown when the main controller power drops to 1%.
 
-| ![](img/ICBricksHub03.png) | | |
-| :---: | --- | --- |
-| ≥50% | 50%~10% | ≤10% |
+| ![](img/ICBricksHub03.png) |
+| :---: |
+| ≥50%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   50%~10% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ≤10%| 
 
+Note: Overnight charging is strictly prohibited.
 
 + <sup>[2] </sup><font style="color:rgb(44, 44, 54);"></font>**Port Indicators:**<font style="color:rgb(44, 44, 54);"> Refer to the location of each port.  </font>
 
@@ -72,10 +73,10 @@
 
 | Mode |  Description   |
 | :---: | --- |
-| ** Direct Control  ** | Operate actuators connected to different ports using the directional buttons (up, down, left, right).   |
-| ** Logic Control  ** |  Use sensors to directly control actuators without programming.   |
-| ** Programming Control  ** | Supports ICBricks programming software (mobile), ICrobot software (PC), and MicroBlocks software (PC).   |
-| ** Logic Restriction  ** | <font style="color:rgb(44, 44, 54);">Disables all intelligent features of the device.  </font> |
+| **Direct Control** | Operate actuators connected to different ports using the directional buttons (up, down, left, right).   |
+| **Logic Control** |  Use sensors to directly control actuators without programming.   |
+| **Programming Control** | Supports ICBricks programming software (mobile), ICrobot software (PC), and MicroBlocks software (PC).   |
+| **Logic Restriction** | <font style="color:rgb(44, 44, 54);">Disables all intelligent features of the device.  </font> |
 
 
 ##Firmware Upgrade
