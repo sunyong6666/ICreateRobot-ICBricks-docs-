@@ -73,7 +73,7 @@ Connect Motor 1 to port 1 and Motor 2 to port 2 of the hub.
 
 ### Software Programming  
 #### Install the Software  
-**Click the following link to download the installation package: **👉** **[**[Software Installation]**](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/05MobileCodingSoftware/01SoftwareInstallation.html)
+**Click the following link to download the installation package:**👉**** [**[Software Installation]**](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/05MobileCodingSoftware/01SoftwareInstallation.html)
 
 #### Steps for Programming  
 **Step 1: Connect Bluetooth**
