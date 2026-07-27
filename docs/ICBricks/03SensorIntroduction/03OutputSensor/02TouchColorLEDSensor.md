@@ -39,7 +39,7 @@ The sensor features PCB edge-wrapping technology, ensuring precise touch signal 
 |  Programming Control Mode   | <font style="color:rgb(44, 44, 54);">Customize the light's color using programming commands.   </font> |
 
 
-**Additional Notes:  **
+**Additional Notes:**
 
 + <sup>[1] </sup><font style="color:rgb(44, 44, 54);"> Touch Control:  </font>
 
