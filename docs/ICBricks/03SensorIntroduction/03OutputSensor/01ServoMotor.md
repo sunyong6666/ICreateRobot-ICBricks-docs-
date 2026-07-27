@@ -6,7 +6,7 @@ The servo motor is a versatile module that supports multiple rotation control mo
 
 
 
-**Key Features:  **
+**Key Features:**
 
 + Standard I²C communication protocol.  
 + Manual I²C slave address switching with 4 selectable addresses and 1 built-in address, supporting multiple motors effortlessly.  
