@@ -30,7 +30,7 @@ Press the up and down buttons on the hub to observe the movement of the servo mo
 ### Preparation
 | ![](img/quickstart06.png) | ![](img/quickstart07.png) | ![](img/quickstart08.jpg) |
 | :---: | :---: | :---: |
-| ICBricks Hub × 1 |  Servo Motor × 1<br/>  RJ11 to Grove Cable × 1 |  Encoder Sensor × 1  <br/> 6P Crystal Head Cable × 1   |
+| ICBricks Hub × 1 |  Servo Motor × 1<br/>  RJ11 to-<br/> Grove Cable × 1 |  Encoder Sensor × 1  <br/> 6P Crystal-<br/> Head Cable × 1   |
 
 
 ###  Connect Sensor and Actuator  
