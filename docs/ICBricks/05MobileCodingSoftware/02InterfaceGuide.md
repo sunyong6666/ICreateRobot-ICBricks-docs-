@@ -70,7 +70,7 @@
 | ④ | Display Area | Show the status of sensors and actuators, with clickable controls for actuators.   |
 
 
-## **Beginner Version **
+## Beginner Version
 ![](img/I07.png)
 
 |  No.   |  Name   | Description |
