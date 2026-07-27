@@ -100,6 +100,30 @@ Using Bluetooth 4.0, you can easily connect your device to the main controller t
 | ![](img/U18.gif) | ![](img/U19.gif) |
 | 3. **Enter a New Name:** <br/>Input the new name in the box. A confirmation <br/>window will appear upon a successful name change.   | 4. **Reconnect to View the New Name:** <br/>Disconnect the Bluetooth connection, refresh <br/>the device list, and reconnect to see <br/>the updated device name.   |
 
+## AI
+Machine Learning provides four types of training models: Image Recognition, Gesture Recognition, Pose Recognition, and Speech Recognition. By creating and training a model, the system automatically generates the corresponding programming blocks for the selected model category, allowing you to easily incorporate the trained model into your programs.
+
+Example: Train an Image Recognition model. After the training is complete and the programming blocks are generated, use the corresponding blocks to develop your application.
+
+| ![](img/U21.png) | ![](img/U22.png) |
+| --- | --- |
+| 1. Open ICBricks Advanced Programming Software, then select the AI category.   | 2. Click training model.   |
+| ![](img/U23.png) | ![](img/U24.png) |
+| 3. In the Machine Learning panel, select a training model. Click Image Recognition.<br/> _(Image Recognition is used as an example in this guide.)_ | 4. Click New Project.   |
+| ![](img/U25.png) | ![](img/U26.png) |
+| 5. Click Camera to capture image samples in the pop-up camera window.  <br/> **Note:** <br/> You can capture one or more samples for the same class. <br/>At least **two classes** are required for image model training.   | 6. Press and hold Capture for 1–2 seconds to capture an image sample. <br/>The captured samples are displayed in the yellow panel on the left. <br/>It is recommended to collect approximately 30 image samples for each class.   |
+| ![](img/U27.png) | ![](img/U28.png) |
+| 7. After all image samples have been collected, click Start Training.<br/> You can monitor the training progress using the progress bar.   | 8. When the training is complete, the software automatically enters Model Testing mode. <br/>Place a sample in front of the camera and verify that the software correctly identifies the sample's class <br/>and displays its confidence score. After confirming that <br/>the test results are correct, click Use Model.   |
+| ![](img/U29.png) | ![](img/U30.png) |
+| 9. The Machine Learning category will automatically generate the programming blocks for the trained model. <br/>Drag the corresponding blocks into your program to use the trained model.   | 10. During programming and program execution, observe the model recognition results in the Recognition Window.   |
+
+
+**Demonstration：**
+
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/U31.gif)
+
+
 
 
 
