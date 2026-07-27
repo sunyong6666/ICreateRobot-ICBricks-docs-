@@ -2,19 +2,19 @@
 ## Required Permissions
 The mobile app does not involve a registration process, nor does it upload any of your personal information to servers. During usage, you only need to grant the following device permissions to ensure the proper functioning of related features:  
 
-**Storage  **
+**Storage**
 
 Purpose: To save and read programming projects.
 
 Special Note: Your programming projects are stored locally on your device and will not be accessed or uploaded.
 
-**Bluetooth  **
+**Bluetoot**
 
 Purpose: To connect to hardware devices and enable interactive operations with hardware.
 
 Special Note: During Bluetooth communication, data is transmitted only between your device and the hardware. Communication content is neither recorded nor disclosed.
 
-**Location  **
+**Location**
 
 Purpose: To scan BLE (Bluetooth Low Energy) devices, as required by technical specifications.
 
@@ -96,9 +96,9 @@ Using Bluetooth 4.0, you can easily connect your device to the main controller t
 ## Renaming the Bluetooth Device  
 | ![](img/U16.gif) | ![](img/U17.gif) |
 | --- | --- |
-| 1. **Connect the Device:** Tap the Bluetooth button, select the target device in the list, and connect. The hub's breathing light will flash white to indicate a successful connection.     | 2. **Access the Rename Option:** Tap "Select Device" 10 times in a row to bring up the rename input box.    |
+| 1. **Connect the Device:** <br/>Tap the Bluetooth button, select the target <br/>device in the list, and connect. <br/>The hub's breathing light will flash white <br/>to indicate a successful connection.     | 2. **Access the Rename Option:** <br/>Tap "Select Device" 10 times in a row to <br/>bring up the rename input box.    |
 | ![](img/U18.gif) | ![](img/U19.gif) |
-| 3. **Enter a New Name:** Input the new name in the box. A confirmation window will appear upon a successful name change.   | 4. **Reconnect to View the New Name:** Disconnect the Bluetooth connection, refresh the device list, and reconnect to see the updated device name.   |
+| 3. **Enter a New Name:** <br/>Input the new name in the box. A confirmation <br/>window will appear upon a successful name change.   | 4. **Reconnect to View the New Name:** <br/>Disconnect the Bluetooth connection, refresh <br/>the device list, and reconnect to see <br/>the updated device name.   |
 
 
 
