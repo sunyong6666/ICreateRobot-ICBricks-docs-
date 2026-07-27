@@ -2,7 +2,7 @@
 ## Adding Characters  
 | ![](img/D1.png) | ![](img/D2.png) | ![](img/D3.png) |
 | --- | --- | --- |
-| Step 1: The default character is CAT.   | Step 2: Add a new character by clicking to select a character.   | Step 3: There are four ways to choose a character: upload a character from your local device, randomly use a built-in character, select a built-in character, or manually draw a character.   |
+| Step 1: The default character is CAT.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | Step 2: Add a new character by clicking to select a character.   | Step 3: There are four ways to choose a character: <br/>upload a character from your local device, <br/>randomly use a built-in character, <br/>select a built-in character, <br/>or manually draw a character.   |
 
 
 ## Adding Background  
