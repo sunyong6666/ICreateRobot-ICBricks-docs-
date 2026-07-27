@@ -504,7 +504,7 @@ When the program starts, the variable "test" is set to 100, and the servo motor 
 <!-- 这是一张图片，ocr 内容为： -->
 ![](img/A92.png)
 
-Recognition Window,** **Displays the model recognition results.  
+Recognition Window, Displays the model recognition results.  
 
 ### recognition of class （） confidence
 <!-- 这是一张图片，ocr 内容为： -->
