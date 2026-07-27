@@ -90,8 +90,8 @@
 
 |  No.   |  Name   | Description |
 | :---: | :---: | --- |
-| ① | Back | Save the current project and return to the login interface.     |
-| ② | Title | Modify the title of the current project.   |
+| ① | Title |  Modify the title of the current project. |
+| ② | Back |  Save the current project and return to the login interface.  |
 | ③ | Save | Save the current project.   |
 | ④ | Download | Download the program to the hub.   |
 | ⑤ | Console | Click the console button to view the port information of the current device for easy debugging; click the button again to retrieve the console. |
