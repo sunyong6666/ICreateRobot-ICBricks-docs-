@@ -4,9 +4,10 @@ ICrobot-Scratch coding software supports 64-bit Windows operating systems.
 
 ## Quick Installation  
 ### Download  
-Click to download [ICrobot-Scratch](https://www.icrobot.com/www/cn-mobile/index.html#/file/index?type2=Scratch%20for%20ICRobot) and save the coding software to your computer.  
+Click to download   
+[ICRobot_2.4.6_windows.zip](https://icreate-help-center.yuque.com/attachments/yuque/0/2026/zip/43021771/1785144667824-ad6dcf48-ec02-4fdf-8e26-5e6e53627a2a.zip)
+and save the coding software to your computer.  
 
-![](img/S01.png)
 
 ### Windows System Installation Steps  
 Double-click the installation file and follow the installation wizard to correctly install ICrobot Scratch coding software. The steps are as follows:  
