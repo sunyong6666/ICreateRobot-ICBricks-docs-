@@ -11,7 +11,7 @@ Press and hold the hub’s power button for 2s to turn it on. A short prompt sou
 ### Preparation
 | ![](img/quickstart02.png) | ![](img/quickstart03.png) |
 | :---: | :---: |
-| ICBricks Hub × 1 |  Servo Motors  × 2 <br/>  Servo Motor Adapter Cables × 2   |
+| ICBricks Hub × 1 |  Servo Motors  × 2 <br/>  Servo Motor-<br/> Adapter Cables × 2   |
 
 
 ### Steps:  
