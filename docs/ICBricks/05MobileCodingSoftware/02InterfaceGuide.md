@@ -101,4 +101,43 @@
 | ⑨ | Run | Download the program to the hub and start execution; click again to stop  the program. |
 | ⑩ | Block Area | Classified display of various functional blocks, quickly find the required sensors according to the color, convenient and efficient selection and use.   |
 
+##  Model Training Page  
+### Model Training Selection Interface
+![](img/I11.png)
+| No. | Name | Description |
+| --- | --- | --- |
+| ① | **Back** | Click Back to return to the Advanced Programming interface.   |
+| ② | **Select Training Model**   | Click to select one of the following training models: Image Recognition, Gesture Recognition, Pose Recognition, or Speech Recognition. After selecting a model, you will be taken to the Project Management interface.   |
+
+
+## Project Management Page
+
+![](img/I12.png)
+| No. | Name | Description |
+| :---: | :---: | --- |
+| ① | **Back** | Click Back to return to the Model Selection Interface. |
+| ② | **New** | Click to create a new project. After clicking, select one of the followingtraining models: Image Recognition, Gesture Recognition, Pose Recognition, or Speech Recognition. |
+| ③ | **upload** |  Click to upload a project from your local device.   |
+| ④ | **Project History** |  Displays the list of previously created or uploaded projects.   |
+
+
+
+
+##  Image Training Page  
+
+![](img/I13.png)
+
+| No. | Name | Description |
+| :---: | :---: | --- |
+| ① | **Back** | Click Back to return to the Project Management Interface.   |
+| ② | **Image Name** | Displays the project name. The project name can be modified.   |
+| ③ | **Category** | Displays the category name.<br/>The category name can be modified.   |
+| ④ | **Camera** | Opens the camera view to capture image samples.   |
+| ⑤ | **Capture** | Press and hold for 1–2 seconds to capture an image.   |
+| ⑥ | **Start Training** | Click to start model training.   |
+| ⑦ | **Test Area** | During model testing, displays the image capture status and recognition results.   |
+| ⑧ | **Test Model** | Click to test the trained model.   |
+| ⑨ | **Use Model** | Generates programming blocks for the trained model.   |
+
+
 
