@@ -98,5 +98,5 @@ MicroBlocks is a real-time programming environment designed for rapid developmen
 
 ![](img/featureoverview24.gif)
 
-For detailed instructions, refer to the [MicroBlocks Programming Software Guide.  ](https://www.yuque.com/crystal-vzc6k/cfl3ix/ab43ctvaa0k7uzfg)
+For detailed instructions, refer to the [MicroBlocks Programming Software Guide.  ](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/07MicroBlocksSoftware/01SoftwareInstallation.html)
 
