@@ -46,5 +46,5 @@ If you cannot open MicroBlocks.app, open "System Preferences" from the Apple men
 
 
 ## Download Extension  
-Click the[ link](https://icreate-help-center.yuque.com/dxifg8/slsumh/tgp088u1nyo3fsm8) to download. After downloading, you will need to extract the file.  
+Click the[ link](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/11UpdateLog/02SoftwareUpdateLog/03MicroBlocksExtension.html) to download. After downloading, you will need to extract the file.  
 
