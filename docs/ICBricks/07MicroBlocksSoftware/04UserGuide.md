@@ -37,6 +37,10 @@
 <!-- 这是一张图片，ocr 内容为： -->
 ![](img/UG7.png)
 
+5. After the upgrade is complete, the “Firmware Installation Complete” window will appear.
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/U1.png)
+
 ## Connecting Devices  
 ### Wired Connection  
 1. Turn on the hub.  
