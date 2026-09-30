@@ -86,17 +86,3 @@ The ICBricks programming software is a mobile graphical programming platform des
 
 For detailed instructions, refer to the [ICBricks Mobile Programming Software Guide](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/05MobileCodingSoftware/01SoftwareInstallation.html).  
 
-### ICrobot-Scratch Programming Mode  
-ICrobot-Scratch software is also compatible with ICBricks 2.0, providing an intuitive graphical programming interface for PC. Based on Scratch, it enables users to interact with hardware devices and the stage area, seamlessly integrating software and hardware.  
-
- ![](img/featureoverview23.gif)
-
-For detailed instructions, refer to the [ICrobot-Scratch Programming Software Guide. ](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/06ICrobotScratchSoftware/01SoftwareInstallation.html) 
-
-### MicroBlocks Programming Mode  
-MicroBlocks is a real-time programming environment designed for rapid development and experimentation. Users can immediately run programs on the hub by simply clicking blocks, receiving instant feedback. This highly interactive environment makes programming intuitive, fast, and engaging. ICBricks 2.0 is fully compatible with MicroBlocks, allowing users to design control logic, operate hardware in real-time, and unleash creativity and flexibility.  
-
-![](img/featureoverview24.gif)
-
-For detailed instructions, refer to the [MicroBlocks Programming Software Guide.  ](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/07MicroBlocksSoftware/01SoftwareInstallation.html)
-
