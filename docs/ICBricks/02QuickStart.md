@@ -52,7 +52,7 @@ Rotate the encoder sensor left and right to observe the movement of the servo mo
 #### Preparation
 |![](img/quickstart12.png) | ![](img/quickstart13.png) | ![](img/quickstart14.png)![](img/quickstart15.png) |
 | :---: | --- | --- |
-| ICBricks Hub × 1 | Servo Motors × 2<br/>  RJ11 to Grove Cables × 2 |  LEGO bricks   |
+| ICBricks Hub × 1 | Servo Motors × 2<br/>  RJ11 to Grove Cables × 2 |  Building Blocks  |
 
 
 #### Steps:  
